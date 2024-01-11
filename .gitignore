@@ -1,0 +1,20 @@
+local
+
+# build
+target
+build
+.gradle
+build.gradle
+settings.gradle
+dependency-reduced-pom.xml
+
+# ide
+.idea
+local.properties
+.project
+.classpath
+.settings
+
+# tomcat
+sample/src/main/tomcat/work/
+sample/src/main/tomcat/temp/

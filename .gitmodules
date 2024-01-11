@@ -1,0 +1,3 @@
+[submodule "servlet-scopes"]
+	path = servlet-scopes
+	url = ssh://git@github.com/morgwai/servlet-scopes.git

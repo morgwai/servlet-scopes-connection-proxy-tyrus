@@ -1,0 +1,1 @@
+servlet-scopes/generate-build.gradle.sh
