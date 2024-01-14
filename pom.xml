@@ -6,7 +6,7 @@
 
 	<groupId>pl.morgwai.base</groupId>
 	<artifactId>servlet-scopes-connection-proxy-tyrus</artifactId>
-	<version>14.0-javax</version><!--jakarta-->
+	<version>14.1-SNAPSHOT-javax</version><!--jakarta-->
 
 	<name>Tyrus connection proxy</name>
 	<description>Tyrus connection proxy for websocket scopes that provides unified, websocket API compliant access to clustered websocket connections</description>
