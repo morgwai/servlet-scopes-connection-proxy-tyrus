@@ -6,7 +6,7 @@
 
 	<groupId>pl.morgwai.base</groupId>
 	<artifactId>servlet-scopes-connection-proxy-tyrus</artifactId>
-	<version>14.1-SNAPSHOT-javax</version><!--jakarta-->
+	<version>15.0-SNAPSHOT-javax</version><!--jakarta-->
 
 	<name>Tyrus connection proxy</name>
 	<description>Tyrus connection proxy for websocket scopes that provides unified, websocket API compliant access to clustered websocket connections</description>
@@ -48,7 +48,7 @@
 		<maven.compiler.release>11</maven.compiler.release>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<guice.version>6.0.0</guice.version><!--jakarta:<guice.version>7.0.0</guice.version>-->
-		<scopes.version>14.0</scopes.version>
+		<scopes.version>15.0</scopes.version>
 	</properties>
 
 	<dependencies>
@@ -79,7 +79,7 @@
 		<dependency>
 			<groupId>pl.morgwai.base</groupId>
 			<artifactId>jul-utils</artifactId>
-			<version>3.0</version>
+			<version>4.0</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
