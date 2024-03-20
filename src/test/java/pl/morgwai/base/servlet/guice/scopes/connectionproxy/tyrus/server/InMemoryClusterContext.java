@@ -39,6 +39,7 @@ public class InMemoryClusterContext extends ClusterContext {
 	}
 
 
+
 	static final AtomicInteger sessionIdSequence = new AtomicInteger(0);
 	static final AtomicInteger connectionIdSequence = new AtomicInteger(0);
 
