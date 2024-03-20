@@ -3,7 +3,7 @@ package pl.morgwai.base.servlet.guice.scopes.connectionproxy.tyrus;
 
 import java.io.IOException;
 
-import javax.websocket.DeploymentException;
+import jakarta.websocket.DeploymentException;
 
 import pl.morgwai.base.servlet.guice.scopes.connectionproxy.tyrus.server.InMemoryClusterContext;
 import pl.morgwai.base.servlet.guice.scopes.tests.TyrusTests;

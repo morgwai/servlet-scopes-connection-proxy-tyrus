@@ -3,7 +3,7 @@ package pl.morgwai.base.servlet.guice.scopes.connectionproxy.tyrus;
 
 import java.util.*;
 
-import javax.websocket.Session;
+import jakarta.websocket.Session;
 
 import org.glassfish.tyrus.core.TyrusSession;
 import org.glassfish.tyrus.core.cluster.DistributedSession;

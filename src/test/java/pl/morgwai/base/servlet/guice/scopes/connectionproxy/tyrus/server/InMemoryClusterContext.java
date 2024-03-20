@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import javax.websocket.*;
+import jakarta.websocket.*;
 
 import org.glassfish.tyrus.core.cluster.*;
 import org.glassfish.tyrus.core.cluster.RemoteSession.DistributedMapKey;
